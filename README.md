@@ -15,3 +15,12 @@ Funktion „Sichtbares als DDS exportieren“ für GIMP
 [deadlock_check](https://github.com/zusitools/deadlock_check)
 ----------------
 Prototyp eines Deadlock-Checkers für Zusi
+
+[ls3icons](https://github.com/zusitools/ls3icons)
+----------------
+Symbole für LS3-Dateien im Windows-Explorer
+
+[ls3thumb](https://github.com/zusitools/ls3thumb)
+----------------
+Miniaturansichten für LS3-Dateien im Windows-Explorer
+
