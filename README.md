@@ -12,6 +12,10 @@ Blender-Addons zum LS3-Import/-Export und LS-Import in Blender
 ----------------
 Funktion „Sichtbares als DDS exportieren“ für GIMP
 
+[gimp_reload_layer](https://github.com/zusitools/gimp_reload_layer)
+----------------
+Ersetzt den Inhalt der aktuellen Ebene in GIMP durch den Inhalt einer Datei oder der Zwischenablage
+
 [deadlock_check](https://github.com/zusitools/deadlock_check)
 ----------------
 Prototyp eines Deadlock-Checkers für Zusi
