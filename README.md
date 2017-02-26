@@ -8,6 +8,22 @@ Blender-Addons zum LS3-Import/-Export und LS-Import in Blender
 ----------------
 Programm zum Erzeugen von Fahrstraßen in Zusi-3-Streckenmodulen
 
+[fahrstrassen](https://github.com/zusitools/fahrstrassen)
+----------------
+Übersicht aller Fahrstraßen in einem Zusi-3-Streckenmodul
+
+[rust_zusi_tcp](https://github.com/zusitools/rust_zusi_tcp)
+----------------
+Zusi-TCP-Bibliothek für Rust
+
+[tcp_dissector](https://github.com/zusitools/tcp_dissector)
+---------------
+Wireshark dissector for the Zusi 3 TCP protocol
+
+[routegraph](https://github.com/zusitools/routegraph)
+---------------
+2D-Ansicht einer Zusi-2-Strecke
+
 [gimp_ddsexport_all](https://github.com/zusitools/gimp_ddsexport_all)
 ----------------
 Funktion „Sichtbares als DDS exportieren“ für GIMP
@@ -24,9 +40,9 @@ Symbole für LS3-Dateien im Windows-Explorer
 ----------------
 Miniaturansichten für LS3-Dateien im Windows-Explorer
 
-[routegraph](https://github.com/zusitools/routegraph)
+[trans_helper](https://github.com/zusitools/trans_helper)
 ---------------
-2D-Ansicht einer Zusi-2-Strecke
+Tools zur Übersetzung von Zusi in andere Sprachen
 
 [deadlock_check](https://github.com/zusitools/deadlock_check)
 ----------------
